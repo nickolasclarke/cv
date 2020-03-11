@@ -35,8 +35,8 @@ IoT sensing, automation & controls; energy systems analysis / modeling, spatial 
   - *Technical Services France*
 - **[DVO](http://www.dvo.com/)** 
   - *Customer Support / Network Engineer*
-  
- ## Awards & Extracurriculars
+
+## Awards & Extracurriculars
  - 2015 Henry Luce Scholar - Henry Luce Foundation
  - 2008-2010 Volunteer Missionary, Montreal, Canada -  Church of Jesus-Christ of Latter-day Saints
  - 2003 Eagle Scout - Boy Scouts of America
