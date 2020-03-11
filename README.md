@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Skills & Interests 
+### Tools
+python, pydata stack, node.js, debian linux, scrum
 
-You can use the [editor on GitHub](https://github.com/nickolasclarke/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Interests
+IoT sensing, automation & controls; energy systems analysis / modeling, spatial analysis, transit, distributed renewables, EV integration, demand response, air quality, China, international development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- 2020 MS: [Energy & Resources Group](https://erg.berkeley.edu/) - UC Berkeley
+- 2012 BA: [Environmental Studies & Globalization](https://westminstercollege.edu/undergraduate/programs/environmental-studies) - Westminster College
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickolasclarke/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Employment History
+- **[UC Berkeley](http://erg.berkeley.edu/)**
+  - *CIEE McQuown Fellow / Graduate Student Researcher*
+    - Lead Energy Systems modeling and analysis for [EcoBlock](https://ecoblock.berkeley.edu/)
+ - **[LBL International Energy Studies Group](https://ies.lbl.gov/)**
+   - *Graduate Student Researcher*
+     - Project lead for development of Dispatch transportation electrification model
+- **[QLEAR.io](http://www.qlear.io/)**
+  - *Head of Product*
+    - Product Manager for the QLEAR IoT Platform, in charge of product roadmap / strategy, overseeing software development teams and development cycle, as well as representing QLEAR in media and industry events.
+- **[Henry Luce Foundation](http://www.hluce.org/lsprogram.aspx)**
+  - *Henry Luce Scholar / Project Manager*
+    - PM for anerobic digestion pilot project developed with Yunnan Normal University using local foodwaste to produce bio-methane and organic fertilizer for local public transporation and agriculture.
+- **[Lucid](https://lucidconnects.com/)** Oakland, CA: January 2014 - May 2015
+  - *Technical Operations Administrator*
+    - Provide tooling and infrastructure support for software engineering team. Also assist with the quality assurance of three product codebases, working on a weekly agile sprint cycle
+- **[Oberlin College](http://www.oberlin.edu/)** Oberlin, OH: June 2012 - July 2013
+  - *Sustainable Technology Research Fellow*
+    - Responsible for the technical management of the Oberlin Dashboard Project, comprised of hundreds of real-time sensors and embedded systems throughout the College and city monitoring resource consumption. Manage team of student employees and act as a technical resource for community outreach projects.
+- **[Novell](http://www.novell.com/)** Provo, UT & Paris, France: Summer 2007, June 2010 - July 2013
+  - *SUSE Linux Advantage Support Engineer*
+    - Tier II Support engineer for SUSE Linux Enterprise Server, Open Enterprise Server, & Red Hat Enterprise Linux. Provide individual support to priority enterprise customer accounts. Work personally with development engineers to provide rapid hotfix turn arounds.
+  - *Groupwise / Pulse Backline Engineering Intern*
+  - *Technical Services France*
+- **[DVO](http://www.dvo.com/)** 
+  - *Customer Support / Network Engineer*
+  
+ ## Awards & Extracurriculars
+ - 2015 Henry Luce Scholar - Henry Luce Foundation
+ - 2008-2010 Volunteer Missionary, Montreal, Canada -  Church of Jesus-Christ of Latter-day Saints
+ - 2003 Eagle Scout - Boy Scouts of America
+ 
