@@ -62,8 +62,10 @@ strong {
   color:#222;
 }
 
-.no-print {
-  display: none;
+@media print {
+  .no-print {
+    display: none;
+  }
 }
 .logo {
   border-radius: 6px;
