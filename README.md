@@ -10,16 +10,19 @@ IoT sensing, automation & controls; energy systems analysis / modeling, spatial 
 - 2012 BA: [Environmental Studies & Globalization](https://westminstercollege.edu/undergraduate/programs/environmental-studies) - Westminster College
 
 ## Employment History
-- **[UC Berkeley](http://erg.berkeley.edu/)**
+- **[UC Berkeley](http://erg.berkeley.edu/)** Berekley, CA: Jan 2019 - Present
   - *CIEE McQuown Fellow / Graduate Student Researcher*
     - Lead Energy Systems modeling and analysis for [EcoBlock](https://ecoblock.berkeley.edu/)
- - **[LBL International Energy Studies Group](https://ies.lbl.gov/)**
+ - **[LBL International Energy Studies Group](https://ies.lbl.gov/)** Berekley, CA: Jan 2018 - Present
    - *Graduate Student Researcher*
      - Project lead for development of Dispatch transportation electrification model
-- **[QLEAR.io](http://www.qlear.io/)**
+- **[Weave Grid](https://www.weavegrid.com)** San Francisco, CA: June 2019 - Aug 2019
+  - *Product & Strategy Intern*
+    - Assist CEO and CTO to refine and build MVP product for electric vehicle fleet charging optimziation. Write proposals for utility pilot projects, institutional grants, and accelerators.
+- **[QLEAR.io](http://www.qlear.io/)** Shanghai, China: Aug 2016 - June 2018
   - *Head of Product*
     - Product Manager for the QLEAR IoT Platform, in charge of product roadmap / strategy, overseeing software development teams and development cycle, as well as representing QLEAR in media and industry events.
-- **[Henry Luce Foundation](http://www.hluce.org/lsprogram.aspx)**
+- **[Henry Luce Foundation](http://www.hluce.org/lsprogram.aspx)** Kunming, China: June 2015 - August 2016
   - *Henry Luce Scholar / Project Manager*
     - PM for anerobic digestion pilot project developed with Yunnan Normal University using local foodwaste to produce bio-methane and organic fertilizer for local public transporation and agriculture.
 - **[Lucid](https://lucidconnects.com/)** Oakland, CA: January 2014 - May 2015
