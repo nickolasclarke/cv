@@ -18,7 +18,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.logo %}
-          <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+          <img class="no-print logo" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
  
         <!-- removed
@@ -32,7 +32,7 @@
         {% endif %}
         -->
         {% if site.show_social %}
-        <ul class="social">
+        <ul class="no-print social">
           <li><a href="{{ site.github.owner_url }}"><strong>GitHub</strong></a></li>
           <li><a href="{{ site.linkedin_url }}"><strong>LinkedIn</strong></a></li>
           <li><a href="{{ site.ucb_url }}"><strong>UC Berkeley</strong></a></li>
