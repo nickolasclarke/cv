@@ -13,7 +13,7 @@ IoT sensing, automation & controls; energy systems analysis / modeling, spatial 
 - **[UC Berkeley](http://erg.berkeley.edu/)** Berkeley, CA: Jan 2019 - Present
   - *CIEE McQuown Fellow / Graduate Student Researcher*
     - Lead Energy Systems modeling and analysis for [EcoBlock](https://ecoblock.berkeley.edu/)
- - **[LBL International Energy Studies Group](https://ies.lbl.gov/)** Berekley, CA: Jan 2018 - Present
+ - **[LBL International Energy Studies Group](https://ies.lbl.gov/)** Berkeley, CA: Jan 2018 - Present
    - *Graduate Student Researcher*
      - Project lead for development of Dispatch transportation electrification model
 - **[Weave Grid](https://www.weavegrid.com)** San Francisco, CA: June 2019 - Aug 2019
