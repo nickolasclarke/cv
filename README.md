@@ -10,7 +10,10 @@ IoT sensing, automation & controls; energy systems analysis / modeling, spatial 
 - 2012 BA: [Environmental Studies & Globalization](https://westminstercollege.edu/undergraduate/programs/environmental-studies) - Westminster College
 
 ## Employment History
-- **[UC Berkeley](http://erg.berkeley.edu/)** Berkeley, CA: Jan 2019 - Present
+- **[PingThings](http://pingthings.io/)** Remote: Oct 2020 - Present
+  - *Product Manager*
+    - Lead Product Management and strategy for [PredictiveGrid timeseries platform](https://www.pingthings.io/platform.html)
+- **[UC Berkeley](http://erg.berkeley.edu/)** Berkeley, CA: Jan 2019 - May 2020
   - *CIEE McQuown Fellow / Graduate Student Researcher*
     - Lead Energy Systems modeling and analysis for [EcoBlock](https://ecoblock.berkeley.edu/)
  - **[LBL International Energy Studies Group](https://ies.lbl.gov/)** Berkeley, CA: Jan 2018 - Present
