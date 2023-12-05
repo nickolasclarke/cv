@@ -1,6 +1,6 @@
 ## Skills & Interests 
 ### Tools
-python, pydata stack, node.js, debian linux, scrum
+python, pydata stack, linux, GIS
 
 ### Interests
 IoT sensing, automation & controls; energy systems analysis / modeling, spatial analysis, transit, distributed renewables, EV integration, demand response, air quality, China, international development
@@ -10,7 +10,10 @@ IoT sensing, automation & controls; energy systems analysis / modeling, spatial 
 - 2012 BA: [Environmental Studies & Globalization](https://westminstercollege.edu/undergraduate/programs/environmental-studies) - Westminster College
 
 ## Employment History
-- **[PingThings](http://pingthings.io/)** Remote: Oct 2020 - Present
+- **[WeaveGrid](http:///)** San Francisco: Oct 2021 - Present
+  - *Software Engineer*
+    - Develop the [Weavegrid for Utilities](https://www.weavegrid.com/utilities) platform
+- **[PingThings](http://pingthings.io/)** Remote: Oct 2020 - Oct 2021
   - *Product Manager*
     - Lead Product Management and strategy for [PredictiveGrid timeseries platform](https://www.pingthings.io/platform.html)
 - **[UC Berkeley](http://erg.berkeley.edu/)** Berkeley, CA: Jan 2019 - May 2020
@@ -44,6 +47,6 @@ IoT sensing, automation & controls; energy systems analysis / modeling, spatial 
 
 ## Awards & Extracurriculars
  - 2015 Henry Luce Scholar - Henry Luce Foundation
- - 2008-2010 Volunteer Missionary, Montreal, Canada -  Church of Jesus-Christ of Latter-day Saints
+ <!-- - 2008-2010 Volunteer Missionary, Montreal, Canada -  Church of Jesus-Christ of Latter-day Saints -->
  - 2003 Eagle Scout - Boy Scouts of America
  
