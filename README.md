@@ -1,6 +1,6 @@
 ## Skills & Interests 
 ### Tools
-python, pydata stack, linux, GIS
+python, data/ML stack (pandas, numpy, sklearn, tensorflow,etc), SQL, docker, k8s, javascript
 
 ### Interests
 IoT sensing, automation & controls; energy systems analysis / modeling, spatial analysis, transit, distributed renewables, EV integration, demand response, air quality, China, international development
