@@ -31,10 +31,11 @@ IoT sensing, automation & controls, energy systems analysis / modeling, spatial 
 
 - **[Novell](http://www.novell.com/)** Provo, UT: June 2010 - July 2013
   - **SUSE Linux Advantage Support Engineer**: Tier II Support engineer for SUSE Linux Enterprise Server for our priority enterprise customer accounts. Work personally with software development team to provide rapid hotfix fixes and features for these high value customers.
-  <!-- *- *Groupwise / Pulse Backline Engineering Intern**
-  *- *Technical Services France** -->
-<!-- - **[DVO](http://www.dvo.com/)** 
-  - *Customer Support / Network Engineer* -->
+  <!-- *- *Groupwise / Pulse Backline Engineering Intern** -->
+  <!-- *- *Technical Services France** -->
+<!-- - **[DVO](http://www.dvo.com/)**  -->
+  <!-- - *Customer Support / Network Engineer* -->
+
 ## Education
 - 2020 MS: [Energy & Resources Group](https://erg.berkeley.edu/) - UC Berkeley
   - **[LBL International Energy Studies Group](https://ies.lbl.gov/)** Berkeley, CA: Jan 2018 - May 2020
