@@ -2,7 +2,7 @@
 
 ### Tools
 
-Python, data/ML stack (Pandas, Polars, Numpy, SKLearn, Tensorflow), Rust, Postgres SQL, Meltano, DBT, Docker, Javascript
+Python, data/ML stack (Pandas, Polars, Numpy, SKLearn, Tensorflow), Rust, Postgres SQL, Meltano, DBT, Docker, GraphQL, Javascript
 
 ### Interests
 
@@ -12,9 +12,9 @@ IoT devices, optimization & controls, power systems and energy analysis, spatial
 
 - **[WeaveGrid](http:///)** San Francisco: Oct 2021 - Present
 
-  - **Data & Analytics Engineer**: Development of Weavegrid's internal data pipeline and analytics tooling, including the development of the data warehouse, ETL pipeline, and data visualization tools. Building out analytics and machine-learning forecasting for our go-to-market tools. Used to evaluate performance of our utility clients' electric vehicle charging programs for tens of thousands of connected EV and EVSE chargers, touching hundreds of GWh of electricity daily.
+  - **Data & Analytics Engineer**: Development of Weavegrid's internal data pipeline and analytics tooling, including the development of the data warehouse, ETL pipeline, and data visualization tools. Building out analytics and machine-learning forecasting for our go-to-market tools. Used to evaluate performance of our utility clients' electric vehicle charging programs for tens of thousands of connected EV and EVSE chargers, impacting hundreds of GWh of electricity daily.
 
-  - **Software Engineer**: Founding member of a greenfield team to lead the development of the [Weavegrid for Utilities](https://www.weavegrid.com/utilities) platform, a cloud-based software platform for WeavGrid's utility clients to manage and optimize residential and commercial electric vehicle fleet charging programs. This includes developing the data pipeline, API, and front-end interfaces for the platform, as well as reporting tooling for utility clients.
+  - **Software Engineer**: Founding member of a greenfield team develop the [Weavegrid for Utilities](https://www.weavegrid.com/utilities) platform, a cloud-based software platform for WeavGrid's utility clients to manage and optimize residential and commercial electric vehicle fleet charging programs. This includes developing the data pipeline, REST/GraphQL API, and React front-end interfaces for the platform, as well as automated reporting for utility clients.
 
 - **[PingThings](http://pingthings.io/)** Remote: Oct 2020 - Oct 2021
 
@@ -22,15 +22,15 @@ IoT devices, optimization & controls, power systems and energy analysis, spatial
 
 - **[Weave Grid](https://www.weavegrid.com)** San Francisco, CA: June 2019 - Aug 2019
 
-  - **Product & Strategy Intern**: Assist CEO and CTO to refine and build MVP product for electric vehicle fleet charging optimization. Write proposals for utility pilot projects, institutional grants, and accelerators.
+  - **Product & Strategy Graduate Intern**: Assist CEO and CTO to refine and build MVP product for electric vehicle fleet charging optimization. Write proposals for utility pilot projects, institutional grants, and accelerators.
 
 - **[QLEAR.io](http://www.qlear.io/)** Shanghai, China: Aug 2016 - June 2018
 
-  - **Head of Product**: Product Manager for the QLEAR IoT Platform, in charge of product roadmap / strategy, overseeing software development teams and development cycle, as well as representing QLEAR in media and industry events.
+  - **Head of Product**: Product Manager for the QLEAR SaaS IoT Platform for monitoring and optimizing indoor air quality and energy usage in commercial/retail buildings across dozens of countries and four continents with thousands of connected IoT devices. Responsible for the product roadmap / strategy, overseeing software development teams and development, as well as representing QLEAR in media and industry events.
 
 - **[Henry Luce Foundation](http://www.hluce.org/lsprogram.aspx)** Kunming, China: June 2015 - August 2016
 
-  - **Henry Luce Scholar / Project Manager**: Project Manager for anerobic digestion pilot using local foodwaste to produce bio-methane and organic fertilizer for local public transportation and agriculture. Developed in partnership with Yunnan Normal University.
+  - **Henry Luce Scholar / Project Manager**: Project Manager for anerobic digestion pilot using local foodwaste to produce bio-methane and organic fertilizer for local public transportation and agriculture. Developed in partnership with [Yunnan Normal University](https://lx.ynnu.edu.cn/English/About/About_YNNU.htm).
 
 - **[Lucid](https://lucidconnects.com/)** Oakland, CA: January 2014 - May 2015
 
