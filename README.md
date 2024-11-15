@@ -6,7 +6,7 @@ Python, data/ML stack (Pandas, Polars, Numpy, SKLearn, Tensorflow), Rust, Postgr
 
 ### Interests
 
-IoT devices, optimization & controls, power systems and energy analysis, spatial analysis (GIS), transit, distributed renewables, EV integration, demand response, air quality, China, international development
+IoT, optimization & controls, power systems and energy analysis, spatial analysis (GIS), transit, distributed energy resources (DER), renewables, EV integration, demand response, air quality, China, international development
 
 ## Employment History
 
@@ -51,11 +51,11 @@ IoT devices, optimization & controls, power systems and energy analysis, spatial
       - Lead Energy Systems modeling and analysis for [EcoBlock](https://ecoblock.berkeley.edu/)
       - Project lead for development of [Dispatch](https://github.com/nickolasclarke/dispatch) transportation electrification model
   - Co-author and Software Developer for [Mapping for Environmental Justice](https://mappingforej.studentorg.berkeley.edu/)'s [feed lot classification and mapping project](https://mappingforej.studentorg.berkeley.edu/wp-content/uploads/2022/03/NM-CAFO-Report.pdf)
-  - [ER131 Environment, Data & Society](https://github.com/duncancallaway/ER131_2019/blob/master/ER131%20Data%20and%20Environment%20syllabus.pdf), [Duncan Callaway](https://emac.berkeley.edu/)
   - [CE295 Energy Systems & Control](https://ecal.berkeley.edu/ce295.html), [Scott Moura](https://ecal.berkeley.edu/)
   - [PP275: Spatial Data & Analysis](https://docs.google.com/document/d/1oC10pjyeBQTenQazCpaB8Lx1b5PC1SR3WFiPgCtXqcs/edit?usp=sharing), Solomon Hsiang
   - [ER254 Electric Power Systems](https://erg.berkeley.edu/academics/courses/), [Duncan Callaway](https://emac.berkeley.edu/)
   - [MBA212 Energy and Environmental Markets](http://faculty.haas.berkeley.edu/borenste/mba212/syl212.pdf), [Severin Borenstein](https://energyathaas.wordpress.com/author/severinborenstein/)
+  - [ER131 Environment, Data & Society](https://github.com/duncancallaway/ER131_2019/blob/master/ER131%20Data%20and%20Environment%20syllabus.pdf), [Duncan Callaway](https://emac.berkeley.edu/)
 - 2012 BA: [Environmental Studies & Globalization / Minor in French](https://westminstercollege.edu/undergraduate/programs/environmental-studies) - Westminster College
 
 ## Awards & Extracurriculars

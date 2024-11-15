@@ -43,8 +43,8 @@
     \vspace{2mm}
     Climate-focused technologist with a background in software development, machine learning, and technical product management. Currently building IoT solutions in electric vehicle grid integration, real-time energy analysis and optimization.\\
     \vspace{2mm}
-    \href{https://github.com/nickolasclarke}{\faGithub} \hspace{10pt} 
-    \href{https://www.linkedin.com/in/nickolasclarke/}{\faLinkedin} \hspace{10pt} 
+    \href{https://github.com/nickolasclarke}{\faGithub} \hspace{10pt}
+    \href{https://www.linkedin.com/in/nickolasclarke/}{\faLinkedin} \hspace{10pt}
     \href{https://erg.berkeley.edu/people/nick-clarke/}{UC Berkeley}
 \end{center}
 
@@ -67,7 +67,7 @@ IoT devices, optimization \& controls, power systems and energy analysis, spatia
 \begin{itemize}[leftmargin=*]
     \item Development of WeaveGrid's internal data pipeline and analytics tooling, including the development of the data warehouse, ETL pipeline, and data visualization tools.
     \item Building out analytics and machine-learning forecasting for go-to-market tools to evaluate performance of utility clients' electric vehicle charging programs for tens of thousands of connected EV and EVSE chargers, impacting hundreds of GWh of electricity daily.
-\end{itemize} 
+\end{itemize}
 \\
 \textbf{Software Engineer} \hfill
 \begin{itemize}[leftmargin=*]
@@ -130,11 +130,11 @@ IoT devices, optimization \& controls, power systems and energy analysis, spatia
 
 \subsection*{Relevant Coursework}
 \begin{itemize}[leftmargin=*]
-    \item \href{https://github.com/duncancallaway/ER131_2019/blob/master/ER131%20Data%20and%20Environment%20syllabus.pdf}{ER131 Environment, Data \& Society} - Duncan Callaway
     \item \href{https://ecal.berkeley.edu/ce295.html}{CE295 Energy Systems \& Control} - Scott Moura
     \item \href{https://docs.google.com/document/d/1oC10pjyeBQTenQazCpaB8Lx1b5PC1SR3WFiPgCtXqcs/edit?usp=sharing}{PP275: Spatial Data \& Analysis} - Solomon Hsiang
     \item \href{https://erg.berkeley.edu/academics/courses/}{ER254 Electric Power Systems} - Duncan Callaway
     \item \href{http://faculty.haas.berkeley.edu/borenste/mba212/syl212.pdf}{MBA212 Energy and Environmental Markets} - Severin Borenstein
+    \item \href{https://github.com/duncancallaway/ER131_2019/blob/master/ER131%20Data%20and%20Environment%20syllabus.pdf}{ER131 Environment, Data \& Society} - Duncan Callaway
     \\
 \end{itemize}
 
